@@ -8,4 +8,4 @@ https://user-images.githubusercontent.com/55064061/142139227-d3d8ae46-51fc-416c-
 ## Design Document
 [Design.pdf](https://github.com/colemanjenkins/Mu45-Compressor/files/7551952/Design.pdf)
 
-See /tests for testing files referenced
+See /test_files for testing files referenced
